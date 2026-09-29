@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 70" width="340" height="70" fill="none" role="img" aria-label="STARQ LOGISTICS &amp; CO. Logo Light">
+  <!-- Symbol / Icon Group -->
+  <g transform="translate(4, 5)">
+    <!-- White Geometric Cargo Wing Base -->
+    <path d="M12 48 L32 8 L44 8 L24 48 Z" fill="#FFFFFF" />
+    <!-- Secondary Dynamic Jet Fin in Ice White with subtle transparency -->
+    <path d="M26 48 L46 8 L54 8 L34 48 Z" fill="#FFFFFF" opacity="0.8" />
+    
+    <!-- Forward Thrust Speed Chevron in Teal -->
+    <path d="M38 48 L56 12 L64 12 L46 48 Z" fill="#29A5AA" />
+    
+    <!-- Aerodynamic Jet Wing Accent crossing the mark -->
+    <path d="M6 32 C18 29, 44 26, 68 18 L65 24 C45 30, 22 34, 6 36 Z" fill="#29A5AA" />
+    
+    <!-- Stylized Compass / Precision Cargo Indicator Dot -->
+    <circle cx="58" cy="14" r="3.5" fill="#29A5AA" />
+  </g>
+
+  <!-- Typography: STARQ -->
+  <text x="82" y="38" font-family="'Plus Jakarta Sans', 'Outfit', 'Inter', -apple-system, sans-serif" font-size="28" font-weight="900" letter-spacing="1.5" fill="#FFFFFF">STARQ</text>
+  
+  <!-- Typography: LOGISTICS & CO. -->
+  <text x="83" y="54" font-family="'Plus Jakarta Sans', 'Outfit', 'Inter', -apple-system, sans-serif" font-size="9.5" font-weight="700" letter-spacing="4" fill="#29A5AA">LOGISTICS &amp; CO.</text>
+</svg>
