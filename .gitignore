@@ -2,3 +2,14 @@ node_modules/
 .DS_Store
 Thumbs.db
 *.log
+
+# Sensitive environment and credentials
+.env
+.env.*
+*.pem
+*.key
+*.cert
+*.crt
+credentials.json
+secrets.json
+.vscode/
