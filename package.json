@@ -2,10 +2,9 @@
   "name": "starq-logistics-website",
   "version": "1.0.0",
   "description": "STARQ LOGISTICS & CO. — Official Air Cargo & Logistics Website",
-  "main": "server.js",
   "scripts": {
-    "start": "node server.js",
-    "dev": "node server.js",
+    "start": "node dev-server.js",
+    "dev": "node dev-server.js",
     "test": "node test-site.js"
   },
   "keywords": [

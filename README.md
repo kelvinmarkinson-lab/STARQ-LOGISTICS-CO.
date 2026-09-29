@@ -82,7 +82,7 @@ The project includes a built-in, zero-dependency Node.js HTTP server.
 # Start local server
 npm start
 # or
-node server.js
+node dev-server.js
 ```
 
 Open [http://localhost:3000](http://localhost:3000) in your browser.
